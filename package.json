@@ -7,7 +7,7 @@
   "scripts": {
     "build": "node scripts/build.mjs",
     "preview": "node scripts/build.mjs && npx --yes serve prototype",
-    "lint:php": "find wordpress -name '*.php' -exec php -l {} \; | grep -v 'No syntax errors' || true"
+    "lint:php": "find wordpress -name '*.php' -print0 | xargs -0 -n1 php -l | grep -v 'No syntax errors' || true"
   },
   "engines": { "node": ">=18" }
 }
