@@ -1,0 +1,156 @@
+{
+ "version": "0.4",
+ "title": "Support Us",
+ "type": "page",
+ "content": [
+  {
+   "id": "109aab",
+   "elType": "container",
+   "settings": {
+    "content_width": "boxed",
+    "_css_classes": "hero",
+    "background_background": "classic",
+    "background_color": "#f3f6f4"
+   },
+   "elements": [
+    {
+     "id": "101eef",
+     "elType": "widget",
+     "settings": {
+      "title": "Support",
+      "header_size": "p",
+      "_css_classes": "kicker"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "103dde",
+     "elType": "widget",
+     "settings": {
+      "title": "Any amount helps us achieve our goals.",
+      "header_size": "h1"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "105ccd",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p class=\"lede\">In order to align better with our goal of access for all, FaHa has eliminated dues. We welcome charitable contributions from those that are in a position to give. The organization provides resources for event organizers as well as micro-scholarships for families that express a need.</p>"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    },
+    {
+     "id": "107bbc",
+     "elType": "widget",
+     "settings": {
+      "text": "Donate on Zeffy",
+      "link": {
+       "url": "https://www.zeffy.com/en-US/donation-form/ongoing-support-2",
+       "is_external": "on"
+      },
+      "_css_classes": "btn"
+     },
+     "elements": [],
+     "widgetType": "button"
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "11b112",
+   "elType": "container",
+   "settings": {
+    "content_width": "boxed",
+    "_css_classes": "content prose"
+   },
+   "elements": [
+    {
+     "id": "10b99a",
+     "elType": "widget",
+     "settings": {
+      "title": "Donate",
+      "header_size": "h2",
+      "_element_id": "donate"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "10d889",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p>If you feel FaHa has served you, a family member, friend, or community you care about and would like to support our mission please donate through the campaign below.</p>\n"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    },
+    {
+     "id": "10f778",
+     "elType": "widget",
+     "settings": {
+      "shortcode": "[faha_embed url=\"https://www.zeffy.com/embed/donation-form/ongoing-support-2\" label=\"Open the donation form\"]"
+     },
+     "elements": [],
+     "widgetType": "shortcode"
+    },
+    {
+     "id": "111667",
+     "elType": "widget",
+     "settings": {
+      "title": "Employer matching",
+      "header_size": "h2",
+      "_element_id": "employer-matching"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "113556",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p>Check to see if your company is one of the many that offer charitable donation matching: <a href=\"https://www.charitynavigator.org/donor-basics/giving-101/employee-match-programs/?bay=content.view&amp;cpid=1799\" rel=\"noopener\">Charity match programs (Charity Navigator)</a>.</p>\n"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    },
+    {
+     "id": "115445",
+     "elType": "widget",
+     "settings": {
+      "title": "Where the money goes",
+      "header_size": "h2",
+      "_element_id": "where-the-money-goes"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "117334",
+     "elType": "widget",
+     "settings": {
+      "html": "<div class=\"grid paths\"><article class=\"card\"><h3><a href=\"/support/funding-request/\">Funding requests</a></h3><p>Any member in good standing may request funding for an activity that furthers the education and community of our members.</p>\n</article><article class=\"card\"><h3><a href=\"/support/funding-request/\">Micro-scholarships</a></h3><p class=\"is-placeholder\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat.</p>\n</article><article class=\"card\"><h3><a href=\"/faq/\">Board-planned events</a></h3><p>Potlucks, chess tournaments, dances or festivals, planned by the board with group donations.</p>\n</article></div>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "119223",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p>FaHa is a 501(c)(3) charity. All funds go towards furthering the mission of the group.</p>\n"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    }
+   ],
+   "isInner": false
+  }
+ ],
+ "page_settings": {
+  "hide_title": "yes"
+ }
+}

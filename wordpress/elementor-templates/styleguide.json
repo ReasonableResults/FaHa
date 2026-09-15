@@ -1,0 +1,224 @@
+{
+ "version": "0.4",
+ "title": "Style guide and components",
+ "type": "page",
+ "content": [
+  {
+   "id": "107bbc",
+   "elType": "container",
+   "settings": {
+    "content_width": "boxed",
+    "_css_classes": "hero",
+    "background_background": "classic",
+    "background_color": "#f3f6f4"
+   },
+   "elements": [
+    {
+     "id": "101eef",
+     "elType": "widget",
+     "settings": {
+      "title": "Internal",
+      "header_size": "p",
+      "_css_classes": "kicker"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "103dde",
+     "elType": "widget",
+     "settings": {
+      "title": "Components available to editors",
+      "header_size": "h1"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "105ccd",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p class=\"lede\">Every block on this page exists as an Elementor widget or shortcode in the faha-core plugin, and as a CSS class in the theme. Copy the pattern, not the styling.</p>"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "12899b",
+   "elType": "container",
+   "settings": {
+    "content_width": "boxed",
+    "_css_classes": "content prose"
+   },
+   "elements": [
+    {
+     "id": "109aab",
+     "elType": "widget",
+     "settings": {
+      "title": "Video (click to play, never autoplays)",
+      "header_size": "h2",
+      "_element_id": "video-click-to-play-never-autoplays"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "10b99a",
+     "elType": "widget",
+     "settings": {
+      "shortcode": "[faha_video url=\"https://www.youtube.com/watch?v=EXAMPLE_ID\" title=\"Example video (replace EXAMPLE_ID with a real video ID)\"]"
+     },
+     "elements": [],
+     "widgetType": "shortcode"
+    },
+    {
+     "id": "10d889",
+     "elType": "widget",
+     "settings": {
+      "title": "Path cards",
+      "header_size": "h2",
+      "_element_id": "path-cards"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "10f778",
+     "elType": "widget",
+     "settings": {
+      "html": "<div class=\"grid paths\"><article class=\"card\"><h3><a href=\"/resources/\">A path card</a></h3><p>One sentence on where the link goes. Used for hubs and for the three home-page doors.</p>\n</article></div>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "111667",
+     "elType": "widget",
+     "settings": {
+      "title": "Steps",
+      "header_size": "h2",
+      "_element_id": "steps"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "113556",
+     "elType": "widget",
+     "settings": {
+      "html": "<ol class=\"steps\"><li><h3 id=\"first-step\">First step</h3>\n<p>Numbered automatically. Keep each to a sentence or two.</p>\n</li><li><h3 id=\"second-step\">Second step</h3>\n<p>The number comes from CSS counters, so reordering in Elementor renumbers.</p>\n</li></ol>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "115445",
+     "elType": "widget",
+     "settings": {
+      "title": "Resource cards",
+      "header_size": "h2",
+      "_element_id": "resource-cards"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "117334",
+     "elType": "widget",
+     "settings": {
+      "html": "<div class=\"grid cards\"><article class=\"card\"><h3><a href=\"https://example.com\" rel=\"noopener\">A resource</a></h3><p>Description in the member's own words.</p>\n<p class=\"meta\">Free</p>\n</article></div>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "119223",
+     "elType": "widget",
+     "settings": {
+      "title": "Notice",
+      "header_size": "h2",
+      "_element_id": "notice"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "11b112",
+     "elType": "widget",
+     "settings": {
+      "html": "<div class=\"notice\"><p>A short callout for one action or one caveat.</p>\n</div>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "11d001",
+     "elType": "widget",
+     "settings": {
+      "title": "Quote",
+      "header_size": "h2",
+      "_element_id": "quote"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "11eef0",
+     "elType": "widget",
+     "settings": {
+      "html": "<blockquote class=\"quote\"><p>&quot;A quotation.&quot;</p>\n<cite>Attribution</cite>\n</blockquote>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "120ddf",
+     "elType": "widget",
+     "settings": {
+      "title": "Placeholder copy",
+      "header_size": "h2",
+      "_element_id": "placeholder-copy"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "122cce",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p class=\"is-placeholder\">Placeholder paragraphs start with LOREM: in the content files and render with this marker so they are easy to find and replace.</p>\n"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    },
+    {
+     "id": "124bbd",
+     "elType": "widget",
+     "settings": {
+      "title": "Lazy embed",
+      "header_size": "h2",
+      "_element_id": "lazy-embed"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "126aac",
+     "elType": "widget",
+     "settings": {
+      "shortcode": "[faha_embed url=\"https://www.zeffy.com/embed/donation-form/ongoing-support-2\" label=\"Open an embedded form\"]"
+     },
+     "elements": [],
+     "widgetType": "shortcode"
+    }
+   ],
+   "isInner": false
+  }
+ ],
+ "page_settings": {
+  "hide_title": "yes"
+ }
+}

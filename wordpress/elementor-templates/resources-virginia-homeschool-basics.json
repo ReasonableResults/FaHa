@@ -1,0 +1,253 @@
+{
+ "version": "0.4",
+ "title": "Virginia Homeschool Basics",
+ "type": "page",
+ "content": [
+  {
+   "id": "107bbc",
+   "elType": "container",
+   "settings": {
+    "content_width": "boxed",
+    "_css_classes": "hero",
+    "background_background": "classic",
+    "background_color": "#f3f6f4"
+   },
+   "elements": [
+    {
+     "id": "101eef",
+     "elType": "widget",
+     "settings": {
+      "title": "Resources · Start here",
+      "header_size": "p",
+      "_css_classes": "kicker"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "103dde",
+     "elType": "widget",
+     "settings": {
+      "title": "Homeschool Support: General Resources",
+      "header_size": "h1"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "105ccd",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p class=\"lede\">The legal and practical steps for homeschooling in Virginia, from the first notice of intent through post-secondary options.</p>"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "12e668",
+   "elType": "container",
+   "settings": {
+    "content_width": "boxed",
+    "_css_classes": "content prose"
+   },
+   "elements": [
+    {
+     "id": "109aab",
+     "elType": "widget",
+     "settings": {
+      "title": "Homeschool Law - Notice of intent",
+      "header_size": "h2",
+      "_element_id": "homeschool-law-notice-of-intent"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "10b99a",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p class=\"is-placeholder\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris.</p>\n"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    },
+    {
+     "id": "10d889",
+     "elType": "widget",
+     "settings": {
+      "shortcode": "[faha_embed url=\"\" label=\"Notice of intent document (embedded Google Drive file on the old site; file ID to be supplied)\"]"
+     },
+     "elements": [],
+     "widgetType": "shortcode"
+    },
+    {
+     "id": "10f778",
+     "elType": "widget",
+     "settings": {
+      "title": "Homeschool Law - Evidence of Progress",
+      "header_size": "h2",
+      "_element_id": "homeschool-law-evidence-of-progress"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "111667",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p class=\"is-placeholder\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit. Etiam tempor.</p>\n"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    },
+    {
+     "id": "113556",
+     "elType": "widget",
+     "settings": {
+      "title": "Preparing a High School Transcript",
+      "header_size": "h2",
+      "_element_id": "preparing-a-high-school-transcript"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "115445",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p class=\"is-placeholder\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper, ligula eu tempor congue, eros est euismod turpis, id tincidunt sapien risus a quam. Maecenas fermentum consequat mi.</p>\n"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    },
+    {
+     "id": "117334",
+     "elType": "widget",
+     "settings": {
+      "title": "Deciding on Curricula",
+      "header_size": "h2",
+      "_element_id": "deciding-on-curricula"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "119223",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p class=\"is-placeholder\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vivamus suscipit tortor eget felis porttitor volutpat.</p>\n"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    },
+    {
+     "id": "11b112",
+     "elType": "widget",
+     "settings": {
+      "title": "Co-ops and Social groups",
+      "header_size": "h2",
+      "_element_id": "co-ops-and-social-groups"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "11d001",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p class=\"is-placeholder\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in ipsum id orci porta dapibus. Nulla porttitor accumsan tincidunt. Proin eget tortor risus.</p>\n"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    },
+    {
+     "id": "11eef0",
+     "elType": "widget",
+     "settings": {
+      "title": "Drivers education",
+      "header_size": "h2",
+      "_element_id": "drivers-education"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "120ddf",
+     "elType": "widget",
+     "settings": {
+      "editor": "<h3 id=\"getting-a-license-in-virginia\">Getting a License in Virginia</h3>\n<p>When your child turns 15 years and 6 months old they are now eligible for a learner's permit! <a href=\"https://www.canva.com/design/DAGEp-1jfNI/88sTuv58XlJoWxgqIPgXUg/view?utm_content=DAGEp-1jfNI&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=editor\" rel=\"noopener\">This flowchart</a> helps to step caregivers through the process of obtaining a License in Virginia.</p>\n<p>The best practice for the learner's permit is to review the practice test multiple times. Here is the <a href=\"https://transactions.dmv.virginia.gov/dmv-manuals/#/sections/manual/1\" rel=\"noopener\">link to the DMV provided practice test</a>.</p>\n"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    },
+    {
+     "id": "122cce",
+     "elType": "widget",
+     "settings": {
+      "title": "&quot;Dual Enrollment&quot; - Community college during the high school years",
+      "header_size": "h2",
+      "_element_id": "dual-enrollment-community-college-during-the-high-school-years"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "124bbd",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p class=\"is-placeholder\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</p>\n"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    },
+    {
+     "id": "126aac",
+     "elType": "widget",
+     "settings": {
+      "title": "Partial Enrollment in public school",
+      "header_size": "h2",
+      "_element_id": "partial-enrollment-in-public-school"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "12899b",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p class=\"is-placeholder\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Cras ultricies ligula sed magna dictum porta.</p>\n"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    },
+    {
+     "id": "12a88a",
+     "elType": "widget",
+     "settings": {
+      "title": "Post-Secondary options",
+      "header_size": "h2",
+      "_element_id": "post-secondary-options"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "12c779",
+     "elType": "widget",
+     "settings": {
+      "editor": "<h3 id=\"community-college\">Community College</h3>\n<p class=\"is-placeholder\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor lectus nibh. Nulla quis lorem ut libero malesuada feugiat.</p>\n<h3 id=\"navy-enlistment\">Navy enlistment</h3>\n<p class=\"is-placeholder\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Vivamus magna justo, lacinia eget consectetur sed.</p>\n<h3 id=\"4-year-schools\">4 year schools</h3>\n<p class=\"is-placeholder\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla porttitor accumsan tincidunt.</p>\n<h3 id=\"vocational-options\">Vocational options</h3>\n<p class=\"is-placeholder\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sollicitudin molestie malesuada. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.</p>\n"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    }
+   ],
+   "isInner": false
+  }
+ ],
+ "page_settings": {
+  "hide_title": "yes"
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "version": "0.4",
+ "title": "Homeschool Days and Discounts",
+ "type": "page",
+ "content": [
+  {
+   "id": "107bbc",
+   "elType": "container",
+   "settings": {
+    "content_width": "boxed",
+    "_css_classes": "hero",
+    "background_background": "classic",
+    "background_color": "#f3f6f4"
+   },
+   "elements": [
+    {
+     "id": "101eef",
+     "elType": "widget",
+     "settings": {
+      "title": "Resources · Around Fredericksburg",
+      "header_size": "p",
+      "_css_classes": "kicker"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "103dde",
+     "elType": "widget",
+     "settings": {
+      "title": "Homeschool Days and Discounts: Around Fredericksburg",
+      "header_size": "h1"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "105ccd",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p class=\"lede\">Local businesses with homeschool pricing, and regional attractions that run an annual homeschool day.</p>"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "111667",
+   "elType": "container",
+   "settings": {
+    "content_width": "boxed",
+    "_css_classes": "content prose"
+   },
+   "elements": [
+    {
+     "id": "109aab",
+     "elType": "widget",
+     "settings": {
+      "title": "Business Discounts",
+      "header_size": "h2",
+      "_element_id": "business-discounts"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "10b99a",
+     "elType": "widget",
+     "settings": {
+      "html": "<div class=\"grid cards\"><article class=\"card\"><h3>Rapp Rocks Gym</h3><p class=\"is-placeholder\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ultricies ligula sed magna dictum porta.</p>\n<p class=\"meta\">Details to be confirmed</p>\n</article><article class=\"card\"><h3>SkyZone</h3><p class=\"is-placeholder\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac diam sit amet quam vehicula elementum.</p>\n<p class=\"meta\">Details to be confirmed</p>\n</article><article class=\"card\"><h3>Urban Air</h3><p class=\"is-placeholder\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget tortor risus.</p>\n<p class=\"meta\">Details to be confirmed</p>\n</article><article class=\"card\"><h3>Reclaim Arcade</h3><p class=\"is-placeholder\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sollicitudin molestie malesuada.</p>\n<p class=\"meta\">Details to be confirmed</p>\n</article></div>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "10d889",
+     "elType": "widget",
+     "settings": {
+      "title": "Annual Homeschool Days",
+      "header_size": "h2",
+      "_element_id": "annual-homeschool-days"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "10f778",
+     "elType": "widget",
+     "settings": {
+      "html": "<div class=\"grid cards\"><article class=\"card\"><h3>Maymont</h3><p class=\"is-placeholder\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque velit nisi, pretium ut lacinia in, elementum id enim.</p>\n<p class=\"meta\">Details to be confirmed</p>\n</article><article class=\"card\"><h3>Mount Vernon</h3><p class=\"is-placeholder\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem.</p>\n<p class=\"meta\">Details to be confirmed</p>\n</article></div>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    }
+   ],
+   "isInner": false
+  }
+ ],
+ "page_settings": {
+  "hide_title": "yes"
+ }
+}

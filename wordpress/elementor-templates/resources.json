@@ -1,0 +1,133 @@
+{
+ "version": "0.4",
+ "title": "Resources",
+ "type": "page",
+ "content": [
+  {
+   "id": "107bbc",
+   "elType": "container",
+   "settings": {
+    "content_width": "boxed",
+    "_css_classes": "hero",
+    "background_background": "classic",
+    "background_color": "#f3f6f4"
+   },
+   "elements": [
+    {
+     "id": "101eef",
+     "elType": "widget",
+     "settings": {
+      "title": "Resources",
+      "header_size": "p",
+      "_css_classes": "kicker"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "103dde",
+     "elType": "widget",
+     "settings": {
+      "title": "Start with Virginia basics. Then pick the path that fits your family.",
+      "header_size": "h1"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "105ccd",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p class=\"lede\">These lists were sourced from our local community and larger online communities. FaHa is not associated with any of these resources or organizations. Lists can go out of date; please do additional research before committing.</p>"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "117334",
+   "elType": "container",
+   "settings": {
+    "content_width": "boxed",
+    "_css_classes": "content"
+   },
+   "elements": [
+    {
+     "id": "109aab",
+     "elType": "widget",
+     "settings": {
+      "title": "Start here",
+      "header_size": "h2",
+      "_element_id": "start-here"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "10b99a",
+     "elType": "widget",
+     "settings": {
+      "html": "<div class=\"grid paths\"><article class=\"card\"><h3><a href=\"/resources/virginia-homeschool-basics/\">Virginia homeschool basics</a></h3><p>Notice of intent, evidence of progress, transcripts, dual enrollment, driver's education and post-secondary options.</p>\n</article></div>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "10d889",
+     "elType": "widget",
+     "settings": {
+      "title": "Choose your approach",
+      "header_size": "h2",
+      "_element_id": "choose-your-approach"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "10f778",
+     "elType": "widget",
+     "settings": {
+      "html": "<div class=\"grid paths\"><article class=\"card\"><h3><a href=\"/resources/unschooling/\">Unschooling</a></h3><p>Self-directed learning. Books to retrain the mentor's mind about what education can be.</p>\n</article><article class=\"card\"><h3><a href=\"/resources/eclectic/\">Eclectic</a></h3><p>Mix and match. Writing tools, coding, history, STEM, online platforms and study tools, each with a price note.</p>\n</article><article class=\"card\"><h3><a href=\"/resources/structured-programs/\">Structured programs</a></h3><p>School-at-home curricula and online schools compared on grades, accreditation, diplomas, live classes and cost.</p>\n</article></div>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "111667",
+     "elType": "widget",
+     "settings": {
+      "title": "Around Fredericksburg",
+      "header_size": "h2",
+      "_element_id": "around-fredericksburg"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "113556",
+     "elType": "widget",
+     "settings": {
+      "html": "<div class=\"grid paths\"><article class=\"card\"><h3><a href=\"/resources/homeschool-days-and-discounts/\">Homeschool days and discounts</a></h3><p>Local business discounts and annual homeschool days at regional attractions.</p>\n</article></div>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "115445",
+     "elType": "widget",
+     "settings": {
+      "html": "<div class=\"notice\"><p>Have a resource to add? Post it in Discord or email <a href=\"mailto:helpdesk@fahahome.com\">helpdesk@fahahome.com</a>.</p>\n</div>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    }
+   ],
+   "isInner": false
+  }
+ ],
+ "page_settings": {
+  "hide_title": "yes"
+ }
+}

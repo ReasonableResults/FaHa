@@ -1,0 +1,13 @@
+{
+  "name": "faha-site",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Fredericksburg Area Homeschool Association: content archive, WordPress theme + plugin, Elementor templates, and a static prototype.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/build.mjs && npx --yes serve prototype",
+    "lint:php": "find wordpress -name '*.php' -exec php -l {} \; | grep -v 'No syntax errors' || true"
+  },
+  "engines": { "node": ">=18" }
+}

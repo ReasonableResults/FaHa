@@ -1,0 +1,82 @@
+{
+ "version": "0.4",
+ "title": "Group FAQs",
+ "type": "page",
+ "content": [
+  {
+   "id": "107bbc",
+   "elType": "container",
+   "settings": {
+    "content_width": "boxed",
+    "_css_classes": "hero",
+    "background_background": "classic",
+    "background_color": "#f3f6f4"
+   },
+   "elements": [
+    {
+     "id": "101eef",
+     "elType": "widget",
+     "settings": {
+      "title": "FAQ",
+      "header_size": "p",
+      "_css_classes": "kicker"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "103dde",
+     "elType": "widget",
+     "settings": {
+      "title": "Group FAQs",
+      "header_size": "h1"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "105ccd",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p class=\"lede\">Straight answers to the questions new families ask most.</p>"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "10d889",
+   "elType": "container",
+   "settings": {
+    "content_width": "boxed",
+    "_css_classes": "content prose"
+   },
+   "elements": [
+    {
+     "id": "109aab",
+     "elType": "widget",
+     "settings": {
+      "html": "<div class=\"faq\"><h3 id=\"what-does-this-group-do\">What does this group do?</h3>\n<p>FaHa is a member organized 501c3 nonprofit group. Members plan events and share them to a community calendar for everyone to attend. The scope of the events can vary but the idea is to be a participating member in the community you want to build.</p>\n<h3 id=\"where-do-i-find-the-calendar\">Where do I find the calendar?</h3>\n<p>Join the discord. From there you can find a link to the calendar in the &quot;Event Instructions&quot; channel.</p>\n<h3 id=\"why-discord\">Why Discord?</h3>\n<p>FaHa moved to discord to maintain the integrity of the group. Many people were joining without understanding the intention of Faha. The inclusive, and secular nature, the principle of charity, which we share with all our members.</p>\n<p>We hoped to leave Social media behind, but not leave being social behind. Discord has, so far, been a great tool for that.</p>\n<p>We also recognize that as parents we may do a lot of the work of homeschooling but the kids get to play a part in it too. As children get older, it becomes challenging to break into existing social groups, find community, or just feel welcome anywhere. Discord can be a safe place to try to break through some of those barriers before having to attempt an in person event.</p>\n<p>Any parents that allow their children on discord should of course be aware of the possible pitfalls of these types of services, and stay vigilant. When you submit this form you will see a link that invites you to join the discord server. Click that and we will see you in the community space!</p>\n<h3 id=\"how-much-are-the-events\">How much are the events?</h3>\n<p>Some events will cost a few dollars, but everyone is organizing for the community and the costs for the events are only in material costs. There are places to recommend outside services but our community is organized and run by the volunteer members that make it up.</p>\n<h3 id=\"what-kind-of-stuff-does-faha-do\">What kind of stuff does FaHa do?</h3>\n<p>Faha can do anything you can plan. Our group does park days, hikes, art, Lego club, Science experiments and much more! The board members use the donations to the group to plan some events too, like: potlucks, chess tournaments, dances or festivals. As the resources for the group grow, so can the things the group is able to put together for everyone.</p>\n<h3 id=\"does-secular-mean-i-can-t-be-religious-at-all\">Does secular mean I can't be religious at all?</h3>\n<p>No. Our group just doesn't sponsor or engage in any religious activity. The expectation for our members is that they will not have to engage with these things at any events either. People of all faiths are welcome to join the group, just please review the rules before you attend events.</p>\n<h3 id=\"is-this-a-co-op-i-have-to-plan-classes-for\">Is this a Co-op I have to plan classes for?</h3>\n<p>No. FaHa isn't a traditional Co-op that would have each member plan for a certain number of events in a year. We know that the abilities of families will ebb and flow through the years. The understanding is that some members are in a phase in their lives where they are able to plan or host events and others are not.</p>\n</div>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "10b99a",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p>Still have a question? Email <a href=\"mailto:helpdesk@fahahome.com\">helpdesk@fahahome.com</a>.</p>\n"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    }
+   ],
+   "isInner": false
+  }
+ ],
+ "page_settings": {
+  "hide_title": "yes"
+ }
+}

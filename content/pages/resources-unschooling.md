@@ -1,0 +1,77 @@
+---
+title: Unschooling Homeschool Resources
+slug: unschooling
+parent: resources
+nav_title: Unschooling
+menu_order: 2
+hero_kicker: Resources · Approach
+hero_heading: Unschooling Homeschool Resources
+hero_lede: Much of the work of unschooling is about transforming and retraining the mind of the mentor to understand differently what education might be. This method is progressive but not strictly theoretical, it has proven itself time and time again to be able to encourage our children to grow into functioning adults, with a continued love of learning.
+---
+
+:::quote
+"It's a most serious mistake to think that learning is an activity separate from the rest of life, that people do it best of all in places where nothing else is done."
+— John Holt, 'Growing without Schooling #40'
+:::
+
+## Books to inspire
+
+:::cards
+### [Home Grown — Ben and Penny Hewitt](https://www.thriftbooks.com/w/home-grown-adventures-in-parenting-off-the-beaten-path-unschooling-and-reconnecting-with-the-natural-world_ben-hewitt/9006971/)
+When Ben Hewitt and his wife bought a sprawling acreage of field and forest in northern Vermont, they were eager to start a self-sustaining family farm. But over the years, the land became so much more than a building site; it became the birthplace of their two sons, the main source of family income and food, and even a classroom for their children. Through self-directed play, exploration, and experimentation on their farm, Hewitt's children learned how to play and read, test boundaries and challenge themselves, fail and recover. Best of all, this environment allowed their personalities to flourish, fueling further growth. In Home Grown, Hewitt shows us how small, mindful decisions about day-to-day life can lead to greater awareness of the world in our backyards and beyond. In telling the story of his sons' unconventional education in the fields and forests surrounding his family's farm, he demonstrates that the sparks of learning are all around us, just waiting to be discovered. Learning is a lifelong process--and the best education is never confined to a classroom.
+
+### [Nourished — Deborah MacNamara](https://www.thriftbooks.com/w/nourished-why-food-and-relationships-belong-together_deborah-macnamara/36865814/)
+Nothing could be more basic than food. However, food is only one part of the concept of nourishment, but it has consumed our focus and eclipsed something far more critical for thriving-connection. We have lost sight of the fact that feeding our families is about human relationship and emotional well-being.
+
+In Nourished, developmental and relational clinical counsellor Dr. Deborah MacNamara shows us how feeding is part of the caretaking relationship and cannot be separated from it. Informed by attachment science, developmental psychology, neuroscience, and research on human emotion, Nourished reframes our approach to providing for our kids and helps us hit the reset button on our relationship with food. After reading this seminal work, it will be impossible to ever view food as just plain food again.
+
+As parents we need our kids to be receptive to what we offer but the road to the stomach must go through the heart. As relational and emotional creatures, our deepest hunger is one that food by itself cannot fill. In this book, Dr. MacNamara gives us the keys to transform the everyday act of feeding our children (and other loved ones) into a most fulfilling and nourishing dance of attachment. Based on developmental and relational science, qualitative research with families, counselling parents, and her own experience as a mother, in Nourished, MacNamara combines storytelling with science and puts food in its rightful place.
+
+### [Growing Without Schooling — John Holt](https://www.johnholtgws.com/)
+[Browse through all the GWS back issues.](https://issuu.com/patfarenga)
+
+Founded in 1977 by John Holt, Growing Without Schooling (GWS) was the first magazine published about homeschooling, unschooling, and learning outside of school. After 24 years of continuous publication, GWS closed in 2001.
+
+As you can see, John packed every inch of each page with information, reflecting his fondness for low-cost publishing and distribution techniques. Of course, this was also a matter of survival since homeschooling was not widely known in the late seventies and self-publishing was not nearly as sophisticated then as it is now with personal computers. One can see how GWS grew and changed over the years since John died, and how our attempts to increase circulation, subscriptions, and awareness worked or failed. Our book catalog and publications, speaking engagements, and consulting work all contributed to keep GWS afloat.
+
+However, the Internet's free information and support undercut the paid subscription model for GWS; big box bookstores and Amazon made many independent booksellers and publishers, such as Holt Associates, close; and, as unschooling grew in numbers, fractures among unschoolers became more pronounced—some felt GWS was becoming "too organized" (as one former subscriber informed me). All these factors, plus the personal toll of making a payroll and running a small business made GWS difficult for us to keep operating; Holt Associates was never funded by any educational, corporate, or religious interests.
+
+### [Free to Learn — Peter Gray](https://www.thriftbooks.com/w/free-to-learn-why-unleashing-the-instinct-to-play-will-make-our-children-happier-more-self-reliant-and-better-students-for-life_peter-gray/918267/)
+In Free to Learn, developmental psychologist Peter Gray argues that in order to foster children who will thrive in today's constantly changing world, we must entrust them to steer their own learning and development. Drawing on evidence from anthropology, psychology, and history, he demonstrates that free play is the primary means by which children learn to control their lives, solve problems, get along with peers, and become emotionally resilient. A brave, counterintuitive proposal for freeing our children from the shackles of the curiosity-killing institution we call school, Free to Learn suggests that it's time to stop asking what's wrong with our children, and start asking what's wrong with the system. It shows how we can act--both as parents and as members of society--to improve children's lives and to promote their happiness and learning.
+
+### [Hold on to Your Kids — Gordon Neufeld and Gabor Maté](https://www.thriftbooks.com/w/hold-on-to-your-kids-why-parents-need-to-matter-more-than-peers_gabor-mat_gordon-neufeld/246515/)
+Children take their lead from their friends: Being "cool" matters more than anything else. Shaping values, identity, and codes of behavior, peer groups are often far more influential than parents. But this situation is far from natural, and it can be dangerous--it undermines family cohesion, interferes with healthy development, and fosters a hostile and sexualized youth culture. Children end up becoming conformist, anxious, and alienated.
+
+In Hold On to Your Kids, acclaimed physician and bestselling author Gabor Maté joins forces with psychologist Gordon Neufeld to pinpoint the causes of this breakdown and offer practical advice on how to "reattach" to your children and earn back their loyalty and love.
+
+By helping to reawaken our instincts, Neufeld and Maté empower parents to be what nature intended: a true source of enrichment, security, and warmth for their children.
+
+### [Unschooled — Kerry McDonald](https://www.thriftbooks.com/w/unschooled-raising-curious-well-educated-children-outside-the-conventional-classroom_kerry-mcdonald/19710567/)
+Education has become synonymous with schooling, but it doesn't have to be. As schooling becomes increasingly standardized and test driven, occupying more of childhood than ever before, parents and educators are questioning the role of schooling in society. Many are now exploring and creating alternatives. In a compelling narrative that introduces historical and contemporary research on self-directed education, Unschooled also spotlights how a diverse group of individuals and organizations are evolving an old schooling model of education. These innovators challenge the myth that children need to be taught in order to learn. They are parents who saw firsthand how schooling can dull children's natural curiosity and exuberance and others who decided early on to enable their children to learn without school. Educators who left public school classrooms discuss launching self-directed learning centers to allow young people's innate learning instincts to flourish, and entrepreneurs explore their disillusionment with the teach-and-test approach of traditional schooling.
+
+### [Scattered Minds — Gabor Maté](https://www.thriftbooks.com/w/scattered--how-attention-deficit-disorder-originates-and-what-you-can-do-about-it_gabor-mat/250931/)
+In this breakthrough guide to understanding, treating, and healing Attention Deficit Disorder, Dr. Gabor Maté, bestselling author of The Myth of Normal, and himself diagnosed with ADD, demonstrates that the condition is not a genetic "illness" but a response to environmental stress; explains that in ADD, circuits in the brain whose job is emotional self-regulation and attention control fail to develop in infancy, and why; shows how 'distractibility' is the psychological product of life experience; allows parents to understand what makes their ADD children tick, and adults with ADD to gain insights into their emotions and behaviors; expresses optimism about neurological development even in adulthood; and presents a program of how to promote this development in both children and adults.
+
+Whereas other books on the subject describe the condition as inherited, Dr. Maté believes that our social and emotional environments play a key role in both the cause of and cure for this condition. In Scattered Minds, he describes the painful realities of ADD and its effect on children as well as on career and social paths in adults.
+
+While acknowledging that genetics may indeed play a part in predisposing a person toward ADD, Dr. Maté moves beyond that to focus on the things we can control: changes in environment, family dynamics, and parenting choices. He draws heavily on his own experience with the disorder, as both an ADD sufferer and the parent of diagnosed children. Providing a thorough overview of ADD and its treatments, without blaming anyone, Scattered Minds is essential and life-changing reading for the millions of ADD sufferers in North America today.
+
+### [Raising Free People — Akilah S. Richards](https://www.thriftbooks.com/w/raising-free-people-unschooling-as-liberation-and-healing-work_akilah-s-richards/26447003/)
+No one is immune to the byproducts of compulsory schooling and standardized testing. And while reform may be a worthy cause for some, it is not enough for countless others still trying to navigate the tyranny of what schooling has always been. Raising Free People argues that we need to build and work within systems truly designed for any human to learn, grow, socialize, and thrive, regardless of age, ability, background, or access to money.
+
+Families and conscious organizations across the world are healing generations of school wounds by pivoting into self-directed, intentional community-building, and Raising Free People shows you exactly how unschooling can help facilitate this process.
+
+Individual experiences influence our approach to parenting and education, so we need more than the rules, tools, and "bad adult" guilt trips found in so many parenting and education books. We need to reach behind our behaviors to seek and find our triggers; to examine and interrupt the ways that social issues such as colonization still wreak havoc on our ability to trust ourselves, let alone children. Raising Free People explores examples of the transition from school or homeschooling to unschooling, how single parents and people facing financial challenges unschool successfully, and the ways unschooling allows us to address generational trauma and unlearn the habits we mindlessly pass on to children.
+
+In these detailed and unabashed stories and insights, Richards examines the ways that her relationships to blackness, decolonization, and healing work all combine to form relationships and enable community-healing strategies rooted in an unschooling practice. This is how millions of families center human connection, practice clear and honest communication, and raise children who do not grow up to feel that they narrowly survived their childhoods.
+
+### [How to Talk So Kids Will Listen and Listen So Kids Will Talk — Adele Faber and Elaine Mazlish](https://www.thriftbooks.com/w/how-to-talk-so-kids-will-listen--listen-so-kids-will-talk-by-elaine-mazlish-adele-faber/250147/)
+"This parenting book actually made me a better parent."--Lydia Kiesling, The New York Times. From #1 New York Times bestselling authors, the ultimate "parenting bible" (The Boston Globe)--a timeless, beloved book on how to effectively communicate with your child. This bestselling classic by internationally acclaimed experts on communication between parents and children includes fresh insights and suggestions, as well as the author's time-tested methods to solve common problems and build foundations for lasting relationships, including innovative ways to: cope with your child's negative feelings, such as frustration, anger, and disappointment; express your strong feelings without being hurtful; engage your child's willing cooperation; set firm limits and maintain goodwill; use alternatives to punishment that promote self-discipline; understand the difference between helpful and unhelpful praise; resolve family conflicts peacefully. Enthusiastically praised by parents and professionals around the world, Faber and Mazlish's down-to-earth, respectful approach makes relationships with children of all ages less stressful and more rewarding.
+
+### [The Continuum Concept — Jean Liedloff](https://www.thriftbooks.com/w/the-continuum-concept_jean-liedloff/249176/)
+The Continuum Concept introduces the idea that in order to achieve optimal physical, mental and emotional development, human beings - especially babies - require the kind of instinctive nurturing as practiced by our ancient relatives. It is a true 'back to basics' approach to parenting. Author Jean Liedloff spent two and-a-half years in the jungle deep in the heart of South America living with indigenous tribes and was astounded at how differently children are raised outside the Western world. She came to the realisation that essential child-rearing techniques such as touch, trust and community have been undermined in modern times, and in this book suggests practical ways to regain our natural well-being, for our children and ourselves.
+:::
+
+:::notice
+Book descriptions are publisher copy quoted from the retailer listings on the original site. Links point to ThriftBooks with tracking parameters removed.
+:::

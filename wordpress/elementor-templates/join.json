@@ -1,0 +1,183 @@
+{
+ "version": "0.4",
+ "title": "Join the group",
+ "type": "page",
+ "content": [
+  {
+   "id": "109aab",
+   "elType": "container",
+   "settings": {
+    "content_width": "boxed",
+    "_css_classes": "hero",
+    "background_background": "classic",
+    "background_color": "#f3f6f4"
+   },
+   "elements": [
+    {
+     "id": "101eef",
+     "elType": "widget",
+     "settings": {
+      "title": "Join",
+      "header_size": "p",
+      "_css_classes": "kicker"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "103dde",
+     "elType": "widget",
+     "settings": {
+      "title": "We are so glad that you are interested in joining.",
+      "header_size": "h1"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "105ccd",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p class=\"lede\">We are a secular group that organizes with volunteer participation. FaHa finds its roots in unschooling and gentle parenting. Each of our members have something special to offer, and FaHa tries to provide the space for them to make it happen.</p>"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    },
+    {
+     "id": "107bbc",
+     "elType": "widget",
+     "settings": {
+      "text": "Sign up on Zeffy",
+      "link": {
+       "url": "https://www.zeffy.com/en-US/donation-form/ongoing-support-2",
+       "is_external": "on"
+      },
+      "_css_classes": "btn"
+     },
+     "elements": [],
+     "widgetType": "button"
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "120ddf",
+   "elType": "container",
+   "settings": {
+    "content_width": "boxed",
+    "_css_classes": "content prose"
+   },
+   "elements": [
+    {
+     "id": "10b99a",
+     "elType": "widget",
+     "settings": {
+      "title": "How it works",
+      "header_size": "h2",
+      "_element_id": "how-it-works"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "10d889",
+     "elType": "widget",
+     "settings": {
+      "html": "<ol class=\"steps\"><li><h3 id=\"read-the-rules-and-expectations\">Read the rules and expectations</h3>\n<p>They are below. Signing up records your agreement to them.</p>\n</li><li><h3 id=\"complete-the-sign-up-form\">Complete the sign-up form</h3>\n<p>The form is hosted on Zeffy, the payment and membership platform FaHa uses. There are no dues.</p>\n</li><li><h3 id=\"join-the-discord-server\">Join the Discord server</h3>\n<p>When you submit the form you will see a link that invites you to join the discord server. Click that and we will see you in the community space!</p>\n</li><li><h3 id=\"participate\">Participate</h3>\n<p>All events and conversations take place on discord. Please join us in order to participate in our member organized events.</p>\n</li></ol>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "10f778",
+     "elType": "widget",
+     "settings": {
+      "title": "Rules and Expectations",
+      "header_size": "h2",
+      "_element_id": "rules-and-expectations"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "111667",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p>FaHa is a 501c(3) charity and member-organized group. All funds (raised through donations and dues) go towards furthering the mission of the group. FaHa organizes through the Discord App; you will be asked to join Discord in order to continue.</p>\n<p><strong>Secular Homeschool:</strong> We are a secular, member-driven group. Please CLEARLY NOTE if you are suggesting religious material or events. Do not proselytize in any capacity. Do not require religious engagement in any capacity, at any event, or online (e.g. praying before meals, etc.).</p>\n<p><strong>Create Safe Environments:</strong> Language is an imperfect tool, social connections can be challenging. Engage each other with a principle of charity, by taking the best reasonable interpretation from conversations. Always remember that we are essentially here for the same purpose, to help our children grow and learn in the world. If a conflict arises, reach out for guidance on options to mediate.</p>\n"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    },
+    {
+     "id": "113556",
+     "elType": "widget",
+     "settings": {
+      "html": "<blockquote class=\"quote\"><p>&quot;We're all just walking each other home&quot;</p>\n<cite>Ram Dass</cite>\n</blockquote>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "115445",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p><strong>Make Personal Connections:</strong> Once you arrive in Discord, please request an admin to change your nickname to reflect your real name. Handles are awesome but we don't want to lose sight of what we are: a group of real people trying to organize community.</p>\n<p><strong>Be Inclusive:</strong> One of the many benefits of homeschooling is the opportunity to view multiple and wide ranging perspectives. However, there is no place in this group for intolerance.</p>\n"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    },
+    {
+     "id": "117334",
+     "elType": "widget",
+     "settings": {
+      "html": "<blockquote class=\"quote\"><p>&quot;In order to maintain a tolerant society, the society must retain the right to be intolerant of intolerance.&quot;</p>\n<cite>Karl Popper</cite>\n</blockquote>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "119223",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p><strong>Respect Privacy:</strong> What's shared in the group should stay in the group. We also meet in person and bring our most vulnerable selves to social situations. Do not share pictures, stories, or events publicly without the expressed permission of the caregivers.</p>\n<p><strong>Release:</strong> You acknowledge that some events carry inherent dangers. FaHa is an organizational tool and can not be held responsible for anything that happens in connection with events planned by group members. By participating, you understand and agree that you have chosen to assume these risks.</p>\n"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    },
+    {
+     "id": "11b112",
+     "elType": "widget",
+     "settings": {
+      "html": "<div class=\"notice\"><p>Ready to participate? <a href=\"https://www.zeffy.com/en-US/donation-form/ongoing-support-2\" rel=\"noopener\">Join the group on Zeffy</a>. Already a member? <a href=\"https://www.zeffy.com/en-US/d/payments\" rel=\"noopener\">Check your membership status</a>.</p>\n</div>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "11d001",
+     "elType": "widget",
+     "settings": {
+      "title": "A note for parents about Discord",
+      "header_size": "h2",
+      "_element_id": "a-note-for-parents-about-discord"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "11eef0",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p>We also recognize that as parents we may do a lot of the work of homeschooling but the kids get to play a part in it too. As children get older, it becomes challenging to break into existing social groups, find community, or just feel welcome anywhere. Discord can be a safe place to try to break through some of those barriers before having to attempt an in person event.</p>\n<p>Any parents that allow their children on discord should of course be aware of the possible pitfalls of these types of services, and stay vigilant.</p>\n<p>More answers are on the <a href=\"/faq/\">FAQ page</a>.</p>\n"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    }
+   ],
+   "isInner": false
+  }
+ ],
+ "page_settings": {
+  "hide_title": "yes"
+ }
+}

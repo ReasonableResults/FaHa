@@ -1,0 +1,113 @@
+{
+ "version": "0.4",
+ "title": "Funding Request",
+ "type": "page",
+ "content": [
+  {
+   "id": "107bbc",
+   "elType": "container",
+   "settings": {
+    "content_width": "boxed",
+    "_css_classes": "hero",
+    "background_background": "classic",
+    "background_color": "#f3f6f4"
+   },
+   "elements": [
+    {
+     "id": "101eef",
+     "elType": "widget",
+     "settings": {
+      "title": "Support · Members",
+      "header_size": "p",
+      "_css_classes": "kicker"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "103dde",
+     "elType": "widget",
+     "settings": {
+      "title": "Request funds for an activity",
+      "header_size": "h1"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "105ccd",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p class=\"lede\">Any member in good standing may request funding for any activity to further the education and community of our members.</p>"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "113556",
+   "elType": "container",
+   "settings": {
+    "content_width": "boxed",
+    "_css_classes": "content prose"
+   },
+   "elements": [
+    {
+     "id": "109aab",
+     "elType": "widget",
+     "settings": {
+      "title": "Our Goal",
+      "header_size": "h2",
+      "_element_id": "our-goal"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "10b99a",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p>Each of our families has chosen to homeschool for unique reasons and bring a unique perspective to our group. Our hope is that through that diverse member base we can educate our children in ways that no public institution could possibly achieve.</p>\n<p>With that in mind, I'd encourage all of our members to find something they are educated or passionate about and share it with the kids. With this Funding option we will be able to alleviate some of the financial burden of organizing a group activity or event.</p>\n"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    },
+    {
+     "id": "10d889",
+     "elType": "widget",
+     "settings": {
+      "title": "Request Funds",
+      "header_size": "h2",
+      "_element_id": "request-funds"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "10f778",
+     "elType": "widget",
+     "settings": {
+      "shortcode": "[faha_embed url=\"https://docs.google.com/forms/d/e/1FAIpQLSelyA89x5kHHws-hs447B2-uJUEWTOsX0BQKmyYdhMJCwFa-g/viewform?embedded=true\" label=\"Open the funding request form\"]"
+     },
+     "elements": [],
+     "widgetType": "shortcode"
+    },
+    {
+     "id": "111667",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p>Questions about a request? Email <a href=\"mailto:helpdesk@fahahome.com\">helpdesk@fahahome.com</a>.</p>\n"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    }
+   ],
+   "isInner": false
+  }
+ ],
+ "page_settings": {
+  "hide_title": "yes"
+ }
+}

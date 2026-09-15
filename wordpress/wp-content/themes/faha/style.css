@@ -1,0 +1,13 @@
+/*
+Theme Name: FaHa
+Theme URI: https://github.com/ReasonableResults/FaHa
+Author: Fredericksburg Area Homeschool Association
+Description: Lightweight, Elementor-compatible theme for the FaHa rebuild. No jQuery, no web fonts, one 11 KB stylesheet. Header and footer can be overridden by Elementor Pro theme locations.
+Version: 0.1.0
+Requires at least: 6.4
+Tested up to: 6.7
+Requires PHP: 8.0
+License: GNU General Public License v2 or later
+Text Domain: faha
+*/
+/* All styles live in assets/site.css, generated from design/site.css by scripts/build.mjs. */

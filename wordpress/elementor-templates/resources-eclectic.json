@@ -1,0 +1,184 @@
+{
+ "version": "0.4",
+ "title": "Eclectic Homeschool Resources",
+ "type": "page",
+ "content": [
+  {
+   "id": "107bbc",
+   "elType": "container",
+   "settings": {
+    "content_width": "boxed",
+    "_css_classes": "hero",
+    "background_background": "classic",
+    "background_color": "#f3f6f4"
+   },
+   "elements": [
+    {
+     "id": "101eef",
+     "elType": "widget",
+     "settings": {
+      "title": "Resources · Approach",
+      "header_size": "p",
+      "_css_classes": "kicker"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "103dde",
+     "elType": "widget",
+     "settings": {
+      "title": "Eclectic Homeschool Resources",
+      "header_size": "h1"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "105ccd",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p class=\"lede\">Tools and platforms our members actually use, grouped by subject, each with a plain note on what it costs.</p>"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "120ddf",
+   "elType": "container",
+   "settings": {
+    "content_width": "boxed",
+    "_css_classes": "content prose"
+   },
+   "elements": [
+    {
+     "id": "109aab",
+     "elType": "widget",
+     "settings": {
+      "title": "Writing and Literature",
+      "header_size": "h2",
+      "_element_id": "writing-and-literature"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "10b99a",
+     "elType": "widget",
+     "settings": {
+      "html": "<div class=\"grid cards\"><article class=\"card\"><h3><a href=\"https://www.campfirewriting.com/\" rel=\"noopener\">Campfire App</a></h3><p>Campfire is a writing app with a wide array of options and a pretty generous free trial. If you have a budding writer that is looking for some structure or a writer that is scared of a blank page this app can help to sort thoughts and move forward on a project.</p>\n<p class=\"meta\">Free trial, affordable afterwards</p>\n</article><article class=\"card\"><h3><a href=\"https://twinery.org/\" rel=\"noopener\">Twine</a></h3><p>Twine is a dream come true for a &quot;choose your own adventure&quot; fan. Storytelling can be challenging but twine makes for another great way to visualize interactions. It also is a pretty powerful engine for making whatever narrative game you are interested in creating. Check out the website to see some really cool projects made with the tool.</p>\n<p class=\"meta\">Free</p>\n</article><article class=\"card\"><h3><a href=\"https://www.librarypoint.org/resource/\" rel=\"noopener\">CRRL — Central Rappahannock Regional Library</a></h3><p>GET YOUR LIBRARY CARD! Not only does the library itself have so many great resources, but you are also eligible for additional Audiobooks through Hoopla, Libby, Overdrive on and on. LIBRARIES ARE WONDERFUL!</p>\n<p class=\"meta\">Free</p>\n</article></div>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "10d889",
+     "elType": "widget",
+     "settings": {
+      "title": "Coding Opportunities",
+      "header_size": "h2",
+      "_element_id": "coding-opportunities"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "10f778",
+     "elType": "widget",
+     "settings": {
+      "html": "<div class=\"grid cards\"><article class=\"card\"><h3><a href=\"https://hourofcode.com/us/learn\" rel=\"noopener\">Hour of Code</a></h3><p>Hour of Code is a global movement that introduces millions of students to coding through one-hour activities. Register your event and explore resources for hosting an Hour of Code in your classroom or school.</p>\n<p class=\"meta\">Free</p>\n</article><article class=\"card\"><h3><a href=\"https://godotengine.org/\" rel=\"noopener\">Godot</a></h3><p>This game design engine is powerful enough to be used as a professional design tool (Brotato, Slay the Spire II, and many more) but also simple enough for you to be making a simple platformer in about 30 min. Game design is the epitome of the cross disciplinary creative experience. Art, Coding, Storytelling, Project Management, Animation... So many skills to discover! There are great tutorials for this all over the internet. Godot is getting to be a pretty popular engine to make a game in.</p>\n<p class=\"meta\">Free</p>\n</article><article class=\"card\"><h3><a href=\"https://scratch.mit.edu/\" rel=\"noopener\">Scratch</a></h3><p>If Godot is too much for your kiddo, scratch is a good place to start. It is coding with visual logic blocks.</p>\n<p class=\"meta\">Free</p>\n</article></div>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "111667",
+     "elType": "widget",
+     "settings": {
+      "title": "History and Social Studies",
+      "header_size": "h2",
+      "_element_id": "history-and-social-studies"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "113556",
+     "elType": "widget",
+     "settings": {
+      "html": "<div class=\"grid cards\"><article class=\"card\"><h3><a href=\"https://docs.google.com/spreadsheets/d/1xC_875EmV2h1hyS96Ax3oizQr6tfPrdXRqJIjThmsIY/edit?usp=sharing\" rel=\"noopener\">Board gaming through history</a></h3><p>Board games are great! Companies like GMT and Academy Games are making some very impressive wargames that are exciting, engaging and steeped in the history they are portraying.</p>\n<p class=\"meta\">Yeah... a lot.</p>\n</article><article class=\"card\"><h3><a href=\"https://www.iheart.com/podcast/1270-revolutions-30964122/\" rel=\"noopener\">Revolutions podcast</a></h3><p>Mike Duncan has some great and in-depth looks into the revolutionary period of history.</p>\n<p class=\"meta\">Free</p>\n</article><article class=\"card\"><h3><a href=\"https://www.youtube.com/playlist?list=PLhyKYa0YJ_5Aq7g4bil7bnGi0A8gTsawu\" rel=\"noopener\">Extra History</a></h3><p>Sometimes history is best consumed in 10-20 min animated videos! These are great and often cover niche topics in the history of the world. Stick around for the &quot;lies&quot; episodes where they point out some of the factual flubs that are bound to crop up in a series like this. Their integrity there is commendable, and the tone, art and bite sized nature of the videos encourages you to forgive any factual slip-ups.</p>\n<p class=\"meta\">Free</p>\n</article></div>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "115445",
+     "elType": "widget",
+     "settings": {
+      "title": "STEM",
+      "header_size": "h2",
+      "_element_id": "stem"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "117334",
+     "elType": "widget",
+     "settings": {
+      "html": "<div class=\"grid cards\"><article class=\"card\"><h3><a href=\"https://thecrashcourse.com/\" rel=\"noopener\">Crash Course</a></h3><p>Great videos, in depth material, well produced. What's not to love?</p>\n<p class=\"meta\">Free</p>\n</article><article class=\"card\"><h3><a href=\"https://www.fs.usda.gov/learn/kids\" rel=\"noopener\">USDA Forest Service — Kids</a></h3><p class=\"is-placeholder\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat.</p>\n<p class=\"meta\">Free</p>\n</article><article class=\"card\"><h3><a href=\"https://cognitoedu.org/home\" rel=\"noopener\">Cognito</a></h3><p class=\"is-placeholder\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit tortor eget felis porttitor volutpat.</p>\n<p class=\"meta\">Free</p>\n</article></div>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "119223",
+     "elType": "widget",
+     "settings": {
+      "title": "Online Learning Platforms",
+      "header_size": "h2",
+      "_element_id": "online-learning-platforms"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "11b112",
+     "elType": "widget",
+     "settings": {
+      "html": "<div class=\"grid cards\"><article class=\"card\"><h3><a href=\"https://nebula.tv/\" rel=\"noopener\">Nebula</a></h3><p>Youtube, but mostly educational content.</p>\n<p class=\"meta\">Find a coupon code, there are lots</p>\n</article><article class=\"card\"><h3><a href=\"https://www.thegreatcourses.com/\" rel=\"noopener\">The Great Courses</a></h3><p>Wonderful, dry, lightly produced lecture series from respected members of their field. It doesn't have the GLAM effect of some content, but it is great information.</p>\n<p class=\"meta\">$20-50 per course</p>\n</article><article class=\"card\"><h3><a href=\"https://www.masterclass.com/\" rel=\"noopener\">Masterclass</a></h3><p>Masterclass is like great courses, but you trade some teaching expertise for fame and production value. Be prepared to move along if a course isn't fitting your needs. I can happily suggest the Neil Gaiman, Deadmau5 and Steph Curry.</p>\n<p class=\"meta\">Whatever they charge, you can find it half off somewhere</p>\n</article><article class=\"card\"><h3><a href=\"https://www.khanacademy.org/\" rel=\"noopener\">Khan Academy</a></h3><p>Khan Academy was the first kid on the block for a lot of this online educational stuff. If you haven't looked at it in a few years, check it out, there have been improvements. If you are looking to start a small family co-op the teacher dashboard is pretty powerful and a good way to keep an eye on what kids are going over.</p>\n<p class=\"meta\">Free</p>\n</article><article class=\"card\"><h3><a href=\"http://mooc.org\" rel=\"noopener\">MOOC.org</a></h3><p>Sit in on a massive class in a prestigious college. This is the idea of MOOCs. They can be a good fit for older, motivated kids. Don't bother with the certificates, just enjoy the process.</p>\n<p class=\"meta\">Don't pay for it.</p>\n</article><article class=\"card\"><h3><a href=\"https://www.udemy.com/\" rel=\"noopener\">Udemy</a></h3><p>The format here is like Skillshare, but you pay for each course. Try to get reviews from off site (friends or Reddit can be good) this is a big hit or miss situation. You will find a lot of sites like this one, Coursera is another one that is very similar.</p>\n<p class=\"meta\">$20-$150 per course</p>\n</article><article class=\"card\"><h3><a href=\"https://www.skillshare.com/en/\" rel=\"noopener\">Skillshare</a></h3><p>Unlike the pay per course sites like Udemy, Skillshare has a monthly (consume all you can) model. This can be a lot better for a motivated mind.</p>\n<p class=\"meta\">$8-$30 per month (so many coupons, find one!)</p>\n</article><article class=\"card\"><h3><a href=\"https://open.umn.edu/opentextbooks/\" rel=\"noopener\">Open Textbook Library</a></h3><p>Name kinda says it all.</p>\n<p class=\"meta\">Free</p>\n</article><article class=\"card\"><h3><a href=\"https://oercommons.org/oer\" rel=\"noopener\">OER Commons</a></h3><p>It is the non-dystopian version of the future! Check it out, kind of have to see it to understand.</p>\n<p class=\"meta\">Free</p>\n</article></div>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "11d001",
+     "elType": "widget",
+     "settings": {
+      "title": "Study Tools",
+      "header_size": "h2",
+      "_element_id": "study-tools"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "11eef0",
+     "elType": "widget",
+     "settings": {
+      "html": "<div class=\"grid cards\"><article class=\"card\"><h3><a href=\"https://quizlet.com/\" rel=\"noopener\">Quizlet</a></h3><p>Notecards, but they aren't as mobile, or tactile, or always accurate! But seriously, if you want to make some study cards, they are probably already made and on here, or you can make them. Great tool for native tech children. I'll take the index cards for myself though.</p>\n<p class=\"meta\">Free? I'm sure you can spend money on here...</p>\n</article><article class=\"card\"><h3><a href=\"https://www.blooket.com/\" rel=\"noopener\">Blooket</a></h3><p>A great suggestion and quick review from our community: &quot;There's also Blooket (totally free!) which gamifies studying. You do have to create the questions and answer sets, but you can also search and scroll through ones made by other users based on practically any subject.&quot;</p>\n<p class=\"meta\">Free</p>\n</article></div>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    }
+   ],
+   "isInner": false
+  }
+ ],
+ "page_settings": {
+  "hide_title": "yes"
+ }
+}

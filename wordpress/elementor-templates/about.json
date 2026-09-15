@@ -1,0 +1,164 @@
+{
+ "version": "0.4",
+ "title": "About FaHa",
+ "type": "page",
+ "content": [
+  {
+   "id": "107bbc",
+   "elType": "container",
+   "settings": {
+    "content_width": "boxed",
+    "_css_classes": "hero",
+    "background_background": "classic",
+    "background_color": "#f3f6f4"
+   },
+   "elements": [
+    {
+     "id": "101eef",
+     "elType": "widget",
+     "settings": {
+      "title": "About",
+      "header_size": "p",
+      "_css_classes": "kicker"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "103dde",
+     "elType": "widget",
+     "settings": {
+      "title": "A secular, member-driven homeschool community.",
+      "header_size": "h1"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "105ccd",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p class=\"lede\">Fredericksburg Area Homeschool Association aims to provide social, financial and educational resources to homeschoolers and their families.</p>"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "11d001",
+   "elType": "container",
+   "settings": {
+    "content_width": "boxed",
+    "_css_classes": "content prose"
+   },
+   "elements": [
+    {
+     "id": "109aab",
+     "elType": "widget",
+     "settings": {
+      "title": "Mission",
+      "header_size": "h2",
+      "_element_id": "mission"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "10b99a",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p>Fredericksburg Area Homeschool Association aims to provide social, financial and educational resources to homeschoolers and their families.</p>\n<p>FaHa finds its roots in unschooling and gentle parenting. We are a secular group that organizes with volunteer participation. Each of our members have something special to offer, and FaHa tries to provide the space for them to make it happen.</p>\n"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    },
+    {
+     "id": "10d889",
+     "elType": "widget",
+     "settings": {
+      "title": "Group Rules",
+      "header_size": "h2",
+      "_element_id": "group-rules"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "10f778",
+     "elType": "widget",
+     "settings": {
+      "html": "<div class=\"grid cards\"><article class=\"card\"><h3>Secular</h3><p>We are a secular, member driven group. Please CLEARLY NOTE if you are suggesting religious material or events. Do not proselytize in any capacity. Do not require religious engagement in any capacity at any event, or online. (praying before meals etc...)</p>\n</article><article class=\"card\"><h3>Inclusive</h3><p>&quot;In order to maintain a tolerant society, the society must retain the right to be intolerant of intolerance.&quot; -Karl Popper</p>\n<p>Be tolerant of others in this group. We are an affirming group. We acknowledge and respect our differences. Bullying, or hate speech will not be permitted.</p>\n</article><article class=\"card\"><h3>Private</h3><p>What's shared in the group should stay in the group. We meet in person and bring our most vulnerable selves to social situations. Do not share pictures, stories or events publicly (outside of our group) without the expressed permission of the caregivers.</p>\n</article><article class=\"card\"><h3>Community</h3><p>FaHa is an organizational tool and can not be held responsible for anything that happens in connection with events planned by group members. You acknowledge that some events carry inherent dangers. By participating, you understand and agree that you have chosen to assume these risks.</p>\n</article></div>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "111667",
+     "elType": "widget",
+     "settings": {
+      "title": "The Board of Directors",
+      "header_size": "h2",
+      "_element_id": "the-board-of-directors"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "113556",
+     "elType": "widget",
+     "settings": {
+      "html": "<div class=\"board\"><article class=\"person\"><img src=\"/assets/img/placeholder-person.svg\" alt=\"Russell Wrightson\" loading=\"lazy\" width=\"600\" height=\"600\" class=\"placeholder-img\"><h3>Russell Wrightson</h3><p class=\"role\">President</p><p>Russell Wrightson serves the group as President. The driving force behind the development of FaHa as a non-profit, Russell was entrusted with the organization and is committed to maintaining the vital spirit of secularism, inclusion, and community that first made FaHa a home for so many. He is a homeschooling father of two.</p>\n</article><article class=\"person\"><img src=\"/assets/img/placeholder-person.svg\" alt=\"Chrisi Leake\" loading=\"lazy\" width=\"600\" height=\"600\" class=\"placeholder-img\"><h3>Chrisi Leake</h3><p class=\"role\">Vice President</p><p>Chrisi Leake is a lifetime autodidact, passionate about education and learning. Despite having joined the group in the last few years, she approaches FaHa with the same passion and intention as when it was formed. Her eclectic interests and non-traditional schooling methods are invaluable to the effort to keep the group aligned with its mission and roots.</p>\n</article><article class=\"person\"><img src=\"/assets/img/placeholder-person.svg\" alt=\"Tristan Hinz\" loading=\"lazy\" width=\"600\" height=\"600\" class=\"placeholder-img\"><h3>Tristan Hinz</h3><p class=\"role\">Treasurer</p><p>Tristan Hinz is balancing work as a contractor, homeschooler and board member. Tristan leads the chess and board game day through FaHa, which plays to his strengths as an educator. He builds trust with his kids and others through mutual respect and an infectious sense of curiosity.</p>\n</article><article class=\"person\"><img src=\"/assets/img/placeholder-person.svg\" alt=\"Jordan Mudd\" loading=\"lazy\" width=\"600\" height=\"600\" class=\"placeholder-img\"><h3>Jordan Mudd</h3><p class=\"role\">Secretary</p><p>Jordan Mudd is brave. Still parenting young ones she has stepped into a leadership role for FaHa, and we couldn't be more excited. Jordan embraces the eclectic, secular, and communal nature of the group almost by accident. We hope she will be an anchor for the group for many years to come!</p>\n</article><article class=\"person\"><img src=\"/assets/img/placeholder-person.svg\" alt=\"Stephanie Hummer\" loading=\"lazy\" width=\"600\" height=\"600\" class=\"placeholder-img\"><h3>Stephanie Hummer</h3><p class=\"role\">At Large</p><p>Stephanie Hummer has an unwavering willingness to act in support of the organization. Stephanie makes seeing through, even the most complex tasks, a joy. She is a homeschooling mother of one.</p>\n</article><article class=\"person\"><img src=\"/assets/img/placeholder-person.svg\" alt=\"Jessica Mohrweiss\" loading=\"lazy\" width=\"600\" height=\"600\" class=\"placeholder-img\"><h3>Jessica Mohrweiss</h3><p class=\"role\">At Large</p><p>Jessica Mohrweiss is steady, competent and everywhere! Her willingness to give of herself to better the spaces she is a part of is inspiring. She manages a calm presence despite the absolute storm of activity that surrounds her. We are lucky to have her to keep us in motion, keep us informed, and keep us moving forward.</p>\n</article></div>\n"
+     },
+     "elements": [],
+     "widgetType": "html"
+    },
+    {
+     "id": "115445",
+     "elType": "widget",
+     "settings": {
+      "title": "History",
+      "header_size": "h2",
+      "_element_id": "history"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "117334",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p class=\"is-placeholder\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta.</p>\n"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    },
+    {
+     "id": "119223",
+     "elType": "widget",
+     "settings": {
+      "title": "Contact",
+      "header_size": "h2",
+      "_element_id": "contact"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "11b112",
+     "elType": "widget",
+     "settings": {
+      "editor": "<p>Mailing address: 10408 Courthouse Rd, PMB #42, Spotsylvania, VA 22553. Email: <a href=\"mailto:helpdesk@fahahome.com\">helpdesk@fahahome.com</a>.</p>\n"
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    }
+   ],
+   "isInner": false
+  }
+ ],
+ "page_settings": {
+  "hide_title": "yes"
+ }
+}

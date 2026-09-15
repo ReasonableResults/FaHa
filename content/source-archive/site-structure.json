@@ -1,0 +1,63 @@
+{
+  "source": "https://sites.google.com/fahahome.com/fredhomeschool/home",
+  "captured": "2026-09-15",
+  "organization": {
+    "name": "Fredericksburg Area Homeschool Association",
+    "short_name": "FaHa",
+    "type": "501(c)(3) nonprofit, member-organized, secular",
+    "mission": "Fredericksburg Area Homeschool Association aims to provide social, financial and educational resources to homeschoolers and their families.",
+    "email": "helpdesk@fahahome.com",
+    "mailing_address": ["10408 Courthouse Rd", "PMB #42", "Spotsylvania Va", "22553"],
+    "domain": "fahahome.com",
+    "community_platform": "Discord (invite issued after Zeffy sign-up form)",
+    "payments_platform": "Zeffy",
+    "facebook": "https://www.facebook.com/FaHaHomeschoolers/",
+    "dues": "Eliminated; donations welcome (Support Us page)"
+  },
+  "board": [
+    {"role": "President", "name": "Russell Wrightson", "image": "img-board-president"},
+    {"role": "Vice President", "name": "Chrisi Leake", "image": "img-board-vp"},
+    {"role": "Treasurer", "name": "Tristan Hinz", "image": "img-board-treasurer"},
+    {"role": "Secretary", "name": "Jordan Mudd", "image": "img-board-secretary"},
+    {"role": "At Large", "name": "Stephanie Hummer", "image": "img-board-atlarge-1"},
+    {"role": "At Large", "name": "Jessica Mohrweiss", "image": "img-board-atlarge-2"}
+  ],
+  "navigation": [
+    {"label": "Home", "path": "/home"},
+    {"label": "Support Us", "path": "/home/support-us", "parent": "Home"},
+    {"label": "Funding Request", "path": "/home/funding-request", "parent": "Home"},
+    {"label": "Join Us", "href": "https://www.zeffy.com/en-US/organizations/fredericksburg-area-homeschool-association", "note": "nav item links off-site to Zeffy; /join and /join/sign-up and /join/group-faqs exist but are not in the nav"},
+    {"label": "Resources", "children": [
+      {"label": "Unschooling Homeschool Resources", "path": "/resources/unschooling-homeschool-resources"},
+      {"label": "Eclectic Homeschool Resources", "path": "/resources/eclectic-homeschool-resources"},
+      {"label": "Structured Homeschool Programs", "path": "/resources/structured-homeschool-programs"},
+      {"label": "Homeschool days and discounts", "path": "/resources/homeschool-days-and-discounts"},
+      {"label": "Homeschool Stuff", "path": "/resources/homeschool-stuff"}
+    ]},
+    {"label": "Contact Us", "path": "/contact-us"}
+  ],
+  "hidden_pages": ["/join", "/join/sign-up", "/join/group-faqs"],
+  "footer": {
+    "heading": "Get involved:",
+    "links": ["Funding request", "Donate", "Join", "Contact us"],
+    "text": "Fredericksburg Area Homeschool Association | 10408 Courthouse Rd | PMB #42 | Spotsylvania Va | 22553 | Email: Helpdesk@fahahome.com"
+  },
+  "external_services": {
+    "membership_status": "https://www.zeffy.com/en-US/d/payments",
+    "join_or_renew_form": "https://www.zeffy.com/en-US/donation-form/ongoing-support-2",
+    "donation_embed": "https://www.zeffy.com/embed/donation-form/ongoing-support-2",
+    "zeffy_org_page": "https://www.zeffy.com/en-US/organizations/fredericksburg-area-homeschool-association",
+    "funding_request_form": "https://docs.google.com/forms/d/e/1FAIpQLSelyA89x5kHHws-hs447B2-uJUEWTOsX0BQKmyYdhMJCwFa-g/viewform?embedded=true",
+    "charity_match_link": "https://www.charitynavigator.org/donor-basics/giving-101/employee-match-programs/?bay=content.view&cpid=1799",
+    "notice_of_intent_embed": "Embedded Google Drive document under 'Homeschool Law - Notice of intent'. File ID is not exposed in the public HTML; retrieve from the Google Sites editor."
+  },
+  "typography_on_old_site": {"headings": "Open Sans / Bebas Neue (theme)", "body": "Open Sans, Roboto, Lato", "note": "Google Sites default theme; no brand palette defined (only #ffffff / #000000 appear)"},
+  "content_gaps_on_old_site": [
+    "Homeschool days and discounts: venue names only, no descriptions or links",
+    "Homeschool Stuff: 12 section headings, only 'Drivers education' has body copy",
+    "Structured Homeschool Programs > Fredericksburg Area Options: literal placeholder heading 'Insert name of local secular co-ops'",
+    "No Events / calendar page (calendar lives in Discord)",
+    "No About page; mission, rules and board are all on Home"
+  ],
+  "typos_preserved_verbatim": ["spirt", "Buisness", "Cirricula", "wehre", "comendable", "WONDERUL", "check ou t", "cost f K12", "our our members", "Gabor Mat (accent dropped by source)", "Dr. Mat?"]
+}
